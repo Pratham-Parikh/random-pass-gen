@@ -1,0 +1,38 @@
+body{
+    background-color: #333333;
+
+    color: white;
+}
+
+h1{
+    text-decoration: underline;
+    background-color: black;
+    display: inline;
+}
+
+#myButton{
+    margin-top: 50px;
+    border-radius: 15px;
+    font-size: 1.2rem;
+    background-color: chartreuse;
+    border: none;
+}
+
+#myButton:hover{
+    background-color: rgba(128, 255, 0, 0.79);
+    cursor: pointer;
+   
+}
+
+#newPass{
+    background-color: black;
+    color: aqua;
+}
+
+p{
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+
